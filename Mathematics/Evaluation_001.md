@@ -4,6 +4,7 @@ solve:
 2x + 8 = 20
 ## AI Response
 2x = 12
+
 x = 12
 ## Evaluation
 Incorrect.
