@@ -1,9 +1,39 @@
-Problema:
+Problem
 
 A mass of 5 kg accelerates at 2 m/s².
 
-IA responde:
+Calculate the force.
 
-F = 5 + 2 = 7 N
+AI Response
 
-Avaliar e corrigir.
+F = 5 + 2
+
+F = 7 N
+
+Evaluation
+
+Incorrect.
+
+Error Type
+
+Force Calculation Error
+
+Explanation
+
+The model added mass and acceleration instead of applying Newton's Second Law.
+
+Force is calculated using:
+
+F = ma
+
+Substituting the values:
+
+F = 5 × 2
+
+F = 10 N
+
+The correct operation is multiplication, not addition.
+
+Correct Answer
+
+F = 10 N
